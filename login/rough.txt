@@ -1,0 +1,14 @@
+Brand:['Samsung','Sony','Apple'];
+Category:['Mobile','TV','Speaker']
+model:['']
+
+var jbrand=document.getElementById('brand').value;
+	document.write(jbrand);
+	var jcat=document.getElementById('cat').value;
+	document.write(jcat);
+	var jmodel=document.getElementById('model').value;
+	document.write(jmodel);
+	var jquan=document.getElementById('quan').value;
+	document.write(jquan);
+	var jprice=document.getElementById('price').value;
+	document.write(jprice);
